@@ -1,0 +1,44 @@
+activity/MissionActivity.java
+ activity.MissionActivity
+activity/QuickAlarmActivity.java
+ activity.QuickAlarmActivity
+activity/WelcomeStepOneActivity.java
+ activity.WelcomeStepOneActivity
+appiumControl/Label.java
+ appiumControl.Label
+deviceFactory/DeviceAndroid.java
+ deviceFactory.DeviceAndroid
+deviceFactory/IDevice.java
+ deviceFactory.IDevice
+activity/DiscardMissionMessageActivity.java
+ activity.DiscardMissionMessageActivity
+activity/MainActivity.java
+ activity.MainActivity
+tests/AddQuickAlarmTest.java
+ tests.AddQuickAlarmTest
+deviceFactory/FactoryDevices.java
+ deviceFactory.FactoryDevices
+appiumControl/Button.java
+ appiumControl.Button
+appiumControl/ControlBase.java
+ appiumControl.ControlBase
+activity/WelcomeActivity.java
+ activity.WelcomeActivity
+activity/MainMissionActivity.java
+ activity.MainMissionActivity
+deviceFactory/DeviceWindowsPhone.java
+ deviceFactory.DeviceWindowsPhone
+sessionManager/Session.java
+ sessionManager.Session
+appiumControl/DeviceFunctionsBase.java
+ appiumControl.DeviceFunctionsBase
+deviceFactory/DeviceBrowserStack.java
+ deviceFactory.DeviceBrowserStack
+activity/SelectMissionActivity.java
+ activity.SelectMissionActivity
+appiumControl/DeviceTime.java
+ appiumControl.DeviceTime
+appiumControl/ViewGroup.java
+ appiumControl.ViewGroup
+deviceFactory/DeviceIOS.java
+ deviceFactory.DeviceIOS
